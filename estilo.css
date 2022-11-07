@@ -29,6 +29,10 @@ ul {
     padding: 0 1%;
 }
 
+li {
+    padding: 1%;
+}
+
 video, img {
     width: 200px;
 }
